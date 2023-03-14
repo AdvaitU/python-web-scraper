@@ -2,8 +2,9 @@
 
 For Homework 4 (Week 6), I made a Python web scraper that scrapes the Highest Daily Temperature data from the Met Office UK website for major Indian cities and then plots it using matplotlib and exports it into a CSV document. The webscraper finds all the links to major Indian cities and states from the page and then parses the HTML file to retrieve the necessary date from <span> tags.    
    
-Note: The explanation for all the steps is in the Jupyter Notebook attached - [python webscraper.ipynb](./python webscraper.ipynb)    
-Note: I used Joe James' tutuorial as reference for this homework. Link [here](https://www.youtube.com/watch?v=zD0FDYI5_rs).   
+Note: The explanation for all the steps is in the Jupyter Notebook attached. 
+Note: I used Joe James' tutuorial as reference for this homework. Link [here](https://www.youtube.com/watch?v=zD0FDYI5_rs).     
+Note: The exported CSV file is attached in the Repo.   
 
 I explored the following modules for this homework:
 - requests
