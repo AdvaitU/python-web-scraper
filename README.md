@@ -14,7 +14,7 @@ I explored the following modules for this homework:
 - csv
 
 Gallery:
-Link to homepage with all States and major Indian cities: https://www.metoffice.gov.uk/weather/world/india/list
+Link to homepage with all States and major Indian cities: https://www.metoffice.gov.uk/weather/world/india/list    
 Link to example single page: https://www.metoffice.gov.uk/weather/forecast/wh0zu7npp#?date=2023-03-14
 
 ![ Homepage with all links in this format](./Images/1.png)    
